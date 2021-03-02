@@ -30,19 +30,10 @@
 - [**References**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/References)
 - [**Feedback**](https://drive.google.com/open?id=1j--azvBIf_7xkufhe8fR2g7GvuG47eTfvsKeAyDyk6Y)
 - [**Statement of Work**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/Deliverables)
-- [**Installation Instructions**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/Installation-Instructions)
  
  
 </details>
 
-<p align="center">
-<img src="Resources/track-pupils-demo.gif"  width="70%" length="50%" >
-</p>
-<p align="center">
-<a href="https://drive.google.com/file/d/1rmTdVeeDP9rK3k5MDW1rzWMEKGuHVCln/view?usp=sharing">MVP snippet</a> 
-</br>
-<a href="https://drive.google.com/file/d/19Z20QgDJi-uiaTi0ZIYdc1OYAtlCUJ0r/view?usp=sharing">Link to full video</a> 
-</p>
 <h2><a name = "Title1"> 1. Project Overview </a></h2>
 
 * Background : According to the World Health Organization, roughly 15% of the world's population live with some form of disability. Technology like Eye Gaze Technology can help disabled people who have neural diseases which prevent them from interacting physically with ease. However, Commercial products which use Eye gaze technology are usually expensive. To promote the inclusivity of this technology, we are seeking to recreate this technology to leverage the smartphone platform and thus making eye gaze technology more affordable.
@@ -96,15 +87,3 @@
  * [**Technical Tools**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/Technical-Tools)
 
  * [**Project Constraints**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/Project-Constraints)
- 
- 
- <h2><a name = "Miscellaneous">Miscellaneous</a></h2>
-
- * [**References**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/References)
-
- * [**Feedback**](https://drive.google.com/open?id=1j--azvBIf_7xkufhe8fR2g7GvuG47eTfvsKeAyDyk6Y)
-
- * [**Installation Instructions**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/Installation-Instructions)
- 
- 
- 
