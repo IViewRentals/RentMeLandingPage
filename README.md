@@ -36,10 +36,10 @@
 
 <h2><a name = "Title1"> 1. Project Overview </a></h2>
 
-* Background : According to the World Health Organization, roughly 15% of the world's population live with some form of disability. Technology like Eye Gaze Technology can help disabled people who have neural diseases which prevent them from interacting physically with ease. However, Commercial products which use Eye gaze technology are usually expensive. To promote the inclusivity of this technology, we are seeking to recreate this technology to leverage the smartphone platform and thus making eye gaze technology more affordable.
-* Our Project attempts to build an Augmentative and Alternative Communication **(AAC)** tool which can be used with eye gaze as an control.
+* Background : Australian realstate market is currently dominated by a few digital property listing platforms. Each of these platforms have their own website and mobile application that allows users to search for properties based on preferences. Since each individual platform cannot provide a full picture of the marketplace alone, people need to search across all these marketing platforms which is inconvenient. In order to solve this problem, we are seeking to create a single platform with 1Search functionality that mines all the other realstate marketing platforms covering the ACT. This will enable people who are looking to find rental in the ACT area to search based on their preferences efficiently by saving people from having to replicate searches on multiple marketing platforms. 
+* Our Project attempts to build a digital platform that mines all relevant rental realestate digital marketing platforms and creates a single visually engaging profile of the current rental market place based on a set of search preferences.
 
-* **For Who?** : People who have difficulties interacting with mobile devices and communicating using speech with ease. 
+* **For Who?** : People who are looking for rental property in the ACT region.
 
 * [**Stakeholders of the Project**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/Stakeholders)
 </br>
