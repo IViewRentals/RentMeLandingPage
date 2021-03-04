@@ -12,14 +12,14 @@
 <details>
 <summary><img align = "left" src="Resources/link.png" width = "30" height = "30"><h2> Quick Link Dropdown</h2></summary>
 
-- [**All Documentations**](https://drive.google.com/drive/folders/1NlzcfOPzjzUGLZtv5XBwhFZTKDHvKzTZ?usp=sharing)
-- [**Decision Log**](https://drive.google.com/drive/folders/18C8N5hQrXN94pWgNyDpYCfhkNWzhSczE)
-- [**Feedback & Reflection Log**](https://drive.google.com/drive/folders/1Tty_NjlyNDwHHwNLGD4vDpX-9KjvH998)
-- [**Meeting Minutes**](https://drive.google.com/drive/folders/1bz6aJNaLhqgxjfCjiWHxQpbSfh9tgEOj?usp=sharing)
-    + [Team Meeting](https://drive.google.com/drive/folders/1HjPLR9FZ_2_iRm91MV_KgGgtAlXXAkB5)
-    + [Client Meeting](https://drive.google.com/drive/folders/1JjdIRBprHv1TsyhMA9yGrYzDufUeJb3o)
-- [**Trello**](https://trello.com/b/GnYy2QBX/track-pupils)
-- [**Weekly Working Hours Log**](https://docs.google.com/spreadsheets/d/1fvAgWoog8Ptu7ehS3y6uI3UGOBSutxZZ_a82oMGfk1E/edit?usp=sharing)
+- [**All Documentations**](https://drive.google.com/drive/folders/17aalpBC9I1HCR1vOtDDlglnhUeag19HO)
+- [**Decision Log**](https://drive.google.com/drive/folders/1hdTyg2lX9J1MSnSunglKRLW8ooNX-bMB)
+- [**Feedback & Reflection Log**](https://drive.google.com/drive/folders/1fji1iAdRe-emCUcqbeNsSwEtN5k7nVww)
+- [**Meeting Minutes**](https://drive.google.com/drive/folders/1IbVtywbIS1qwB8ISsmpx62VK-qDph2TG)
+    + [Team Meeting](https://drive.google.com/drive/folders/1XMAPlglsns4YBPFGvZf7iqlP7iFEoRbF)
+    + [Client Meeting](https://drive.google.com/drive/folders/1dJAHxGxn7BYqYRFs4GH5LcoclcOFS3Pm)
+- [**Trello**](https://trello.com/b/gTyl0lOg/rent-me)
+- [**Weekly Working Hours Log**](https://docs.google.com/spreadsheets/d/1Huy4oqIJKJm4Vkn6GjLEtLAvzbS3CscQ/edit#gid=379753031)
 - [**User Story Map**](https://miro.com/app/board/o9J_kodemu8=/)
 - [**Risk Register**](https://docs.google.com/document/d/1h8wtWSBGq10KgU5FjX3noPZQz0TSMrlTSjl1m9pVcEc/edit?usp=sharing)
 - [**Communication(Slack, Google Hangout,Whatsapp and Zoom)**](https://docs.google.com/document/d/1fOy_x4CNGdVu6nbyG_zbYGBBXU7Pvlio7XnqYfclkDY/edit)
@@ -27,7 +27,6 @@
 - [**Project Constraints**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/Project-Constraints)
 - [**IP Agreement**](https://drive.google.com/file/d/1D6lRpcF439EluSAafE8FFhUSrTIISbAN/view?usp=sharing)
 - [**Acceptance Criteria**](https://docs.google.com/document/d/1NwzMyvCJ_EW52ajgg5v6M_LCen3BKqRJok3HZnjJcT8/edit)
-- [**References**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/References)
 - [**Feedback**](https://drive.google.com/open?id=1j--azvBIf_7xkufhe8fR2g7GvuG47eTfvsKeAyDyk6Y)
 - [**Statement of Work**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/Deliverables)
  
@@ -45,7 +44,7 @@
 </br>
 
 <p align="center">
-<img src="Resources/trackPupils.png" width="30%" length="30%" border="2">
+<img src="Flow Chart.jpg" width="30%" length="30%" border="2">
 </p>
 
 
@@ -61,8 +60,8 @@
 
 <h2><a name = "Title3"> 3. Traceability of Progress & Teamwork</a></h2>
 
-* [**Trello**](https://trello.com/b/GnYy2QBX/track-pupils)
-* [**Weekly Working Hours Log**](https://docs.google.com/spreadsheets/d/1fvAgWoog8Ptu7ehS3y6uI3UGOBSutxZZ_a82oMGfk1E/edit?usp=sharing)
+* [**Trello**](https://trello.com/b/gTyl0lOg/rent-me)
+* [**Weekly Working Hours Log**](https://docs.google.com/spreadsheets/d/1Huy4oqIJKJm4Vkn6GjLEtLAvzbS3CscQ/edit#gid=379753031)
 
     
 
