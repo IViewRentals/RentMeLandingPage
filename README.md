@@ -44,7 +44,7 @@
 </br>
 
 <p align="center">
-<img src="Flow Chart.JPG" width="70%" length="70%" border="2">
+<img src="Flow Chart.JPG" width="90%" length="90%" border="2">
 </p>
 
 
