@@ -9,8 +9,12 @@
 <a href = "#Title4"><b> 4. Documentation </b></a><br/> 
 <a href = "#Title5"><b> 5. Technical Tools and Constraints </b></a><br/>
 
+<p align="center">
+<img src="sample.png" width="70%" length="70%">
+</p>
+
 <details>
-<summary><img align = "left" src="sample.png" width="90%" length="90%">
+<summary>
     <h2> Quick Link Dropdown</h2></summary>
 
 - [**All Documentations**](https://drive.google.com/drive/folders/17aalpBC9I1HCR1vOtDDlglnhUeag19HO)
@@ -30,8 +34,6 @@
 - [**Acceptance Criteria**](https://docs.google.com/document/d/1NwzMyvCJ_EW52ajgg5v6M_LCen3BKqRJok3HZnjJcT8/edit)
 - [**Feedback**](https://drive.google.com/open?id=1j--azvBIf_7xkufhe8fR2g7GvuG47eTfvsKeAyDyk6Y)
 - [**Statement of Work**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/Deliverables)
- 
- 
 </details>
 
 <h2><a name = "Title1"> 1. Project Overview </a></h2>
@@ -41,13 +43,12 @@
 
 * **For Who?** : People who are looking for rental property in the ACT region.
 
-* [**Stakeholders of the Project**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/Stakeholders)
+* [**Stakeholders of the Project**]()
 </br>
 
 <p align="center">
 <img src="Flow Chart.JPG" width="90%" length="90%" border="2">
 </p>
-
 
 <h2><a name = "Title2"> 2. Project Administration </a></h2>
 
@@ -64,12 +65,9 @@
 * [**Trello**](https://trello.com/b/gTyl0lOg/rent-me)
 * [**Weekly Working Hours Log**](https://docs.google.com/spreadsheets/d/1Huy4oqIJKJm4Vkn6GjLEtLAvzbS3CscQ/edit#gid=379753031)
 
-    
-
 <h2><a name = "Title4"> 4. Documentation</a></h2>
 
 - [**All**](https://drive.google.com/drive/folders/1NlzcfOPzjzUGLZtv5XBwhFZTKDHvKzTZ?usp=sharing)
-- [**App Architecture UML (Brief/Top level)**](https://drive.google.com/file/d/15Xfe_FKf86Dg00DQ7rLXrEMzJ7PCGsy5/view)
 - [**Decision Log**](https://drive.google.com/drive/folders/18C8N5hQrXN94pWgNyDpYCfhkNWzhSczE)
 - [**Output**](https://drive.google.com/drive/folders/11VEx6xQj-KdvEMwhQfAj3t7v0ngSZa2l)
 - [**Feedback & Reflection Log**](https://drive.google.com/drive/folders/1Tty_NjlyNDwHHwNLGD4vDpX-9KjvH998)
@@ -77,13 +75,13 @@
     + [Team Meeting](https://drive.google.com/drive/folders/1HjPLR9FZ_2_iRm91MV_KgGgtAlXXAkB5)
     + [Client Meeting](https://drive.google.com/drive/folders/1JjdIRBprHv1TsyhMA9yGrYzDufUeJb3o)
 - [**User Story Map**](https://miro.com/app/board/o9J_kodemu8=/)
-- [**Acceptance Criteria**](https://docs.google.com/document/d/1NwzMyvCJ_EW52ajgg5v6M_LCen3BKqRJok3HZnjJcT8/edit)
+- [**Acceptance Criteria**]()
 - [**Risk Register**](https://docs.google.com/document/d/1h8wtWSBGq10KgU5FjX3noPZQz0TSMrlTSjl1m9pVcEc/edit?usp=sharing)
-- [**Communication(Slack, Google Hangout,Whatsapp and Zoom)**](https://docs.google.com/document/d/1fOy_x4CNGdVu6nbyG_zbYGBBXU7Pvlio7XnqYfclkDY/edit)
+
 
 
 <h2><a name = "Title5"> 5. Technical Tools and Constraints</a></h2>
   
- * [**Technical Tools**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/Technical-Tools)
+ * [**Technical Tools**]()
 
- * [**Project Constraints**](https://github.com/Ozedaval/Eye-Gaze-Technology/wiki/Project-Constraints)
+ * [**Project Constraints**]()
