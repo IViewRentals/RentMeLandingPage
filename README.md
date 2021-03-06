@@ -10,7 +10,8 @@
 <a href = "#Title5"><b> 5. Technical Tools and Constraints </b></a><br/>
 
 <details>
-<summary><img align = "left" src="Resources/link.png" width = "30" height = "30"><h2> Quick Link Dropdown</h2></summary>
+<summary><img align = "left" src="sample.png" width="90%" length="90%">
+    <h2> Quick Link Dropdown</h2></summary>
 
 - [**All Documentations**](https://drive.google.com/drive/folders/17aalpBC9I1HCR1vOtDDlglnhUeag19HO)
 - [**Decision Log**](https://drive.google.com/drive/folders/1hdTyg2lX9J1MSnSunglKRLW8ooNX-bMB)
