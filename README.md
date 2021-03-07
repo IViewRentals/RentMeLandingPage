@@ -60,11 +60,11 @@
 <h2><a name = "Title5"> 5. Technical Tools and Constraints</a></h2>
   
  <h3> Technical Tools </h3>
- <h4> Communication </h4>
+ <h4> Communication: </h4>
     Team Communication: Slack </br>
     Team Meetings: Zoom </br>
     Non-official Notifications: Facebook Messager </br>
- <h4> Programming </h4>
+ <h4> Programming: </h4>
     Website GUI: Python Django </br>
     Database Establishment: </br>
 
