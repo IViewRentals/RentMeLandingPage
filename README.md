@@ -59,6 +59,14 @@
 
 <h2><a name = "Title5"> 5. Technical Tools and Constraints</a></h2>
   
- * [**Technical Tools**]()
+ <h3> Technical Tools </h3>
+ <h4> Communication </h4>
+    Team Communication: Slack </br>
+    Team Meetings: Zoom </br>
+    Non-official Notifications: Facebook Messager </br>
+ <h4> Programming </h4>
+    Website GUI: Python Django </br>
+    Database Establishment: </br>
 
- * [**Project Constraints**]()
+ <h3> Project Constaints </h3>
+ <p> The priority of the project is to establish a searching engine that integrate the real-estate rental sources into one website which may impose potential ethical or legal issues related to Data Mining and Crawling. </p>
