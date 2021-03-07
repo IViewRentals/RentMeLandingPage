@@ -61,12 +61,12 @@
   
  <h3> Technical Tools </h3>
  <h4> Communication: </h4>
-    Team Communication: Slack </br>
-    Team Meetings: Zoom </br>
-    Non-official Notifications: Facebook Messager </br>
+    Team Communication: <b>Slack</b> </br>
+    Team Meetings: <b>Zoom</b> </br>
+    Non-official Notifications: <b>Facebook Messager</b> </br>
  <h4> Programming: </h4>
-    Website GUI: Python Django </br>
-    Database Establishment: </br>
+    Website GUI: Python <b>Django</b> </br>
+    Database Establishment: <b></b></br>
 
  <h3> Project Constaints </h3>
  <p> The priority of the project is to establish a searching engine that integrate the real-estate rental sources into one website which may impose potential ethical or legal issues related to Data Mining and Crawling. </p>
