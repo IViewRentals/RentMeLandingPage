@@ -31,6 +31,17 @@
 
 
 * [**Team Members & Roles**](https://docs.google.com/document/d/1fvQ1xs856Efw_YJWQ-qfqQBf3QegBSIY/edit)
+
+| Team Member      |Email                 | Leadership Role         |  Programming Role    |                 
+|------------------|----------------------| ------------------------|----------------------| 
+| Afhan Manik      | u6290249@anu.edu.au  | Vice Product Manager    |   Back-end           |
+| Maojun Zhu       | u6170753@anu.edu.au  | Product Manager         |   Back-end           |
+| Ting He          | u6969378@anu.edu.au  | Front-end Technical Lead|   Front-end          |
+| Chan Tun Aung    | u6777573@anu.edu.au  | Back-end Technical Lead |   Back-end           |
+| Yifan Hu         | u7214873@anu.edu.au  | Project Analyst         |   Front-end          | 
+| Manguang Zhao    | u6482640@anu.edu.au  | Project Analyst         |   Front-end          | 
+| Qiang Guo        | u7099144@anu.edu.au  | Project Analyst         |   Front-end          | 
+
 * [**Estimated Schedule**]()
 * [**Deliverables**]()
 * [**Statement of Work**]()
