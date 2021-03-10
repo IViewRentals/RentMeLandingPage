@@ -44,8 +44,8 @@
 
 * [**Statement of Work**](https://docs.google.com/document/d/1qWsR2LWCmQtaKPbh8G0nftqoQ1Xj3YQX/edit)
 <h4>Project Road-Map: </h4>
-<p align="center">
-<img src="project_roadmap.png" width="70%" length="70%" border="2">
+<p align="left">
+<img src="project_roadmap.png" width="80%" length="80%">
 </p>
 
 
