@@ -42,10 +42,11 @@
 | Manguang Zhao    | u6482640@anu.edu.au  | Project Analyst         |   Front-end          | 
 | Qiang Guo        | u7099144@anu.edu.au  | Project Analyst         |   Front-end          | 
 
-* [**Estimated Schedule**]()
-* [**Deliverables**]()
-* [**Statement of Work**]()
-
+* [**Statement of Work**](https://docs.google.com/document/d/1qWsR2LWCmQtaKPbh8G0nftqoQ1Xj3YQX/edit)
+<h4>Project Road-Map: </h4>
+<p align="center">
+<img src="project_roadmap.png" width="70%" length="70%" border="2">
+</p>
 
 
 <h2><a name = "Title3"> 3. Traceability of Progress & Teamwork</a></h2>
@@ -62,8 +63,6 @@
 - [**Meeting Minutes**](https://drive.google.com/drive/folders/1IbVtywbIS1qwB8ISsmpx62VK-qDph2TG)
     + [Team Meeting](https://drive.google.com/drive/folders/1XMAPlglsns4YBPFGvZf7iqlP7iFEoRbF)
     + [Client Meeting](https://drive.google.com/drive/folders/1dJAHxGxn7BYqYRFs4GH5LcoclcOFS3Pm)
-- [**User Story Map**]()
-- [**Acceptance Criteria**]()
 - [**Risk Register**](https://docs.google.com/document/d/12V6pKKfxoXlXmiiIE7Pc39k2eWCI9qsd/edit)
 
 
