@@ -42,7 +42,7 @@
 | Qiang Guo        | u7099144@anu.edu.au  | Project Analyst         |   Front-end          | 
 
 * [**Statement of Work**](https://docs.google.com/document/d/1U5fupBtBRYrPAFrVKaqgS39AD7sV5T51/edit)
-* [**Legal&Ethical Analysis**](https://docs.google.com/document/d/1_cq8wbcWk8cDKfTUuTF1hOzoPlH3a2gY/edit)
+* [**Legal & Ethical Analysis**](https://docs.google.com/document/d/1_cq8wbcWk8cDKfTUuTF1hOzoPlH3a2gY/edit)
 * [**Design Proposal Enhancements**](https://docs.google.com/document/d/1_JoBGKglTsqiKMyQb2GZdpwgQlOrofgNpbCG3IDDveg/edit)
 <h4>Project Road-Map: </h4>
 <p align="left">
