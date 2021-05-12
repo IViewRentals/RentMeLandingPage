@@ -9,10 +9,6 @@
 <a href = "#Title4"><b> 4. Documentation </b></a><br/> 
 <a href = "#Title5"><b> 5. Technical Tools and Constraints </b></a><br/>
 
-<p align="center">
-<img src="" width="70%" length="70%">
-</p>
-
 <h2><a name = "Title1"> 1. Project Overview </a></h2>
 
 * Background : Australian realstate market is currently dominated by a few digital property listing platforms. Each of these platforms have their own website and mobile application that allows users to search for properties based on preferences. Since each individual platform cannot provide a full picture of the marketplace alone, people need to search across all these marketing platforms which is inconvenient. In order to solve this problem, we are seeking to create a single platform with 1Search functionality that mines all the other realstate marketing platforms covering the ACT. This will enable people who are looking to find rental in the ACT area to search based on their preferences efficiently by saving people from having to replicate searches on multiple marketing platforms. 
@@ -46,7 +42,7 @@
 * [**Design Proposal Enhancements**](https://docs.google.com/document/d/1_JoBGKglTsqiKMyQb2GZdpwgQlOrofgNpbCG3IDDveg/edit)
 <h4>Project Road-Map: </h4>
 <p align="left">
-<img src="project_roadmap.png" width="80%" length="80%">
+<img src="project_roadmap02.png" width="80%" length="80%">
 </p>
 
 
