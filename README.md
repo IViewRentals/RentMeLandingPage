@@ -72,7 +72,7 @@
     Team Meetings: <b>Zoom</b> </br>
     Non-official Notifications: <b>Facebook Messager</b> </br>
  <h4> Programming: </h4>
-    Website GUI: Python <b>Django</b> </br>
+    Website GUI: Python <b>Java</b> </br>
 
  <h3> Project Constaints </h3>
  <p> The priority of the project is to establish a searching engine that integrate the real-estate rental sources into one website which may impose potential ethical or legal issues related to Data Mining and Crawling. </p>
