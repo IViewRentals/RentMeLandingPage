@@ -12,7 +12,7 @@
 <h2><a name = "Title1"> 1. Project Overview </a></h2>
 
 * Background : Australian realstate market is currently dominated by a few digital property listing platforms. Each of these platforms have their own website and mobile application that allows users to search for properties based on preferences. Since each individual platform cannot provide a full picture of the marketplace alone, people need to search across all these marketing platforms which is inconvenient. In order to solve this problem, we are seeking to create a single platform with 1Search functionality that mines all the other realstate marketing platforms covering the ACT. This will enable people who are looking to find rental in the ACT area to search based on their preferences efficiently by saving people from having to replicate searches on multiple marketing platforms. 
-* Our Project attempts to build a digital platform that mines all relevant rental realestate digital marketing platforms and creates a single visually engaging profile of the current rental market place based on a set of search preferences.
+* We are going to build up a search engine that integrates the real-estate properties information in ACT Canberra from the main four Real-estate business websites. Thus, end-users who seek potential rental sources could search only on our App/website to access all possible relevant properties rather than repeatedly having to search, skim and compare individually on all those websites.
 
 * **For Who?** : People who are looking for rental property in the ACT region.
 
@@ -26,7 +26,7 @@
 <h2><a name = "Title2"> 2. Project Administration </a></h2>
 
 
-* [**Team Members & Roles**](https://docs.google.com/document/d/1fvQ1xs856Efw_YJWQ-qfqQBf3QegBSIY/edit)
+* [**Team Members & Roles**](https://docs.google.com/document/d/1BrTsg5U2asHrq88uTKnuOLFxd5DlJmhI/edit)
 
 | Team Member      |Email                 | Leadership Role         |  Programming Role    |                 
 |------------------|----------------------| ------------------------|----------------------| 
@@ -38,7 +38,7 @@
 | Qiang Guo        | u7099144@anu.edu.au  | Project Analyst         |   Front-end          | 
 | Yi Gu            | u7196494@anu.edu.au  | Project Analyst         |   Front-end          | 
 
-* [**Statement of Work**](https://docs.google.com/document/d/1U5fupBtBRYrPAFrVKaqgS39AD7sV5T51/edit)
+* [**Statement of Work**](https://docs.google.com/document/d/11B9gsdrsujkUEVvkv23MpzDI7thCoOQ2/edit)
 * [**Legal & Ethical Analysis**](https://docs.google.com/document/d/1_cq8wbcWk8cDKfTUuTF1hOzoPlH3a2gY/edit)
 * [**Design Proposal Enhancements**](https://docs.google.com/document/d/1_JoBGKglTsqiKMyQb2GZdpwgQlOrofgNpbCG3IDDveg/edit)
 <h4>Project Road-Map: </h4>
@@ -50,17 +50,17 @@
 <h2><a name = "Title3"> 3. Traceability of Progress & Teamwork</a></h2>
 
 * [**Trello**](https://trello.com/b/gTyl0lOg/rent-me)
-* [**Weekly Working Hours Log**](https://drive.google.com/file/d/16XBw31Tv7XlIjZhmFhHFP0o_G9YtFB-Y/view?usp=sharing)
+* [**Weekly Working Hours Log**](https://docs.google.com/spreadsheets/d/1ZYX2yzu_UdsbZmc5OYlyGa9cQjIEz6QE/edit#gid=115833928)
 
 <h2><a name = "Title4"> 4. Documentation</a></h2>
 
 - [**All**](https://drive.google.com/drive/folders/17aalpBC9I1HCR1vOtDDlglnhUeag19HO)
-- [**Decision Log**](https://docs.google.com/document/d/1PFJKcLJ47VJA7OFFqUJz6pPIkWqLANEv/edit)
-- [**Output**](https://drive.google.com/drive/folders/1zbk2LxXfnSMFEAYVfDYoexRJb64LZHgY)
-- [**Feedback & Reflection Log**](https://drive.google.com/drive/folders/1fji1iAdRe-emCUcqbeNsSwEtN5k7nVww)
-- [**Meeting Minutes**](https://drive.google.com/drive/folders/1IbVtywbIS1qwB8ISsmpx62VK-qDph2TG)
-    + [Team Meeting](https://drive.google.com/drive/folders/1XMAPlglsns4YBPFGvZf7iqlP7iFEoRbF)
-    + [Client Meeting](https://drive.google.com/drive/folders/1dJAHxGxn7BYqYRFs4GH5LcoclcOFS3Pm)
+- [**Decision Log**](https://drive.google.com/drive/folders/1l3bG5cX43u1eDVqZkJgXQ3hC60QuAdzw)
+- [**Output**](https://drive.google.com/drive/folders/1KtYPZ-SiqC-2j354KCSDVvHOu0Nygcu5)
+- [**Feedback & Reflection Log**](https://drive.google.com/drive/folders/1_amS2v3AFEKDrefKqDbltQ4sXOv7IF8d)
+- [**Meeting Minutes**](https://drive.google.com/drive/folders/1gprv_0_vFj7oi3tYAHsvL6NM1GWoXGop)
+    + [Team Meeting](https://drive.google.com/drive/folders/1tLlyCvsma1fp4bCF7oYbV5Xe8ILTjyts)
+    + [Client Meeting](https://drive.google.com/drive/folders/1ViQPE1cpXgzohYbFqA1VdnkFLWuY19bs)
 - [**Risk Register**](https://docs.google.com/document/d/12V6pKKfxoXlXmiiIE7Pc39k2eWCI9qsd/edit)
 
 
