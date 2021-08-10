@@ -16,7 +16,7 @@
 
 * **For Who?** : People who are looking for rental property in the ACT region.
 
-* [**Stakeholders of the Project**]()
+* [**Stakeholders of the Project**](https://docs.google.com/document/d/1MMlWhg5-0Rl-e9UQfS4KIAZf8hBhPi03/edit)
 </br>
 
 <p align="center">
