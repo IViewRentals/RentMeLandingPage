@@ -62,7 +62,8 @@
     + [Team Meeting](https://drive.google.com/drive/folders/1tLlyCvsma1fp4bCF7oYbV5Xe8ILTjyts)
     + [Client Meeting](https://drive.google.com/drive/folders/1ViQPE1cpXgzohYbFqA1VdnkFLWuY19bs)
 - [**Risk Register**](https://docs.google.com/document/d/12V6pKKfxoXlXmiiIE7Pc39k2eWCI9qsd/edit)
-
+- [**Project Client Map**](https://docs.google.com/document/d/1_ntseUcuVU4BBpGwNaiOSEn6pt99rQlX6XPTmqCkTcQ/edit)
+- [**Value Proposition Canvas**](https://docs.google.com/document/d/179jEUXpwKIaBmfkO9_ikjP4BBQBbEAEnZgPnsn75-C4/edit)
 
 
 <h2><a name = "Title5"> 5. Technical Tools and Constraints</a></h2>
