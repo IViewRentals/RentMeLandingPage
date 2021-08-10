@@ -43,7 +43,7 @@
 * [**Design Proposal Enhancements**](https://docs.google.com/document/d/1_JoBGKglTsqiKMyQb2GZdpwgQlOrofgNpbCG3IDDveg/edit)
 <h4>Project Road-Map: </h4>
 <p align="left">
-<img src="Roadmap.JPG" width="50%" length="80%">
+<img src="2021S2 RoadMap.png" width="50%" length="80%">
 </p>
 
 
