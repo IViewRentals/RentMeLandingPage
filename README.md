@@ -20,7 +20,8 @@
 </br>
 
 <p align="center">
-<img src="Flow Chart.JPG" width="90%" length="90%" border="2">
+<img src="tranditional workflow.JPG" width="90%" length="90%" border="2">
+<img src="rentme workflow.JPG" width="90%" length="90%" border="2">
 </p>
 
 <h2><a name = "Title2"> 2. Project Administration </a></h2>
