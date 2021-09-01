@@ -51,7 +51,6 @@
 <h2><a name = "Title3"> 3. Traceability of Progress & Teamwork</a></h2>
 
 * [**Trello**](https://trello.com/b/gTyl0lOg/rent-me)
-* [**Weekly Working Hours Log**](https://docs.google.com/spreadsheets/d/1ZYX2yzu_UdsbZmc5OYlyGa9cQjIEz6QE/edit#gid=115833928)
 
 <h2><a name = "Title4"> 4. Documentation</a></h2>
 
